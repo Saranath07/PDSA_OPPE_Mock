@@ -10,8 +10,7 @@ class Node:
 
 
 
-
-![Screenshot from 2023-12-08 09-40-19.png](Problem2.assets/Llnk2I4D7ueUvAJ.png)
+![Screenshot from 2023-12-08 12-15-43.png](https://s2.loli.net/2023/12/08/axTnel7g9HfBCWq.png)
 
 Consider an implementation of a linked list, where each node is created using the given class Node. Suppose it has a head variable that contains the reference to the first node of the linked list.
 
