@@ -37,6 +37,21 @@ def mergeSortedList(head1, head2):
         temp.next = head2
     
     return head
-            
 
+
+def al(h1, h2):
+    h3 = Node()
+    L = []
+    while h1 != None:
+        L.append(h1.data)
+    
+    while h2 != None:
+        L.append(h2.data)
+    
+    print(*sorted(L))
+
+print(*[1, 2, 3])
+L = [1, 2, 3]
+for i in L:
+    print(i, end = " ")
     
